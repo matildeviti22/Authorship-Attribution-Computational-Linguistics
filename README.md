@@ -1,4 +1,4 @@
-# Autorship-Attribution-Computational-Linguistics
+# Authorship-Attribution-Computational-Linguistics
 
 **Computational Linguistics II Project – A.Y. 2024/2025** **Author:** Matilde Viti
 
